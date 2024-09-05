@@ -4,7 +4,7 @@
 
 <p id="description">Pomodoro is a simple uncomplicated but attractive project that Pomodoro has implemented for you with the possibility of competition</p>
 
-
+ 
 <h2>🎯 Project Phases</h2>
 This project is divided into four phases, with the team currently working on the first phase:
   </br>
